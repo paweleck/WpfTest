@@ -13,7 +13,7 @@
             <Menu Height="21" VerticalAlignment="Top">
                 <MenuItem Header="File"/>
             </Menu>
-            <TreeView x:Name="tree" HorizontalAlignment="Left" Margin="10,26,0,10" Width="190" FontSize="8"
+            <TreeView x:Name="tree" HorizontalAlignment="Left" Margin="10,26,0,10" Width="172" FontSize="8"
                       SelectedItemChanged="TreeViewControl_SelectedItemChanged"/>
             <Label x:Name="selectedTreeItem" Content="Label" HorizontalAlignment="Left" Margin="250,46,0,0" VerticalAlignment="Top"/>
         </Grid>
